@@ -4,13 +4,18 @@ Low contrast theme inspired by the landscapes of Cyprus. The most prevalent colo
 
 *Cyprium* comes in standalone light and dark variants (see further info below).
 
-## Screenshot
+## Screenshots
 
-![cyprium dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/cyprium/img/cyprium_dark_sample.png)
+![cyprium dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/cyprium/img/cyprium_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![cyprium dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/cyprium/img/cyprium_dark_scss.png)
+
+![cyprium dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/cyprium/img/cyprium_dark_js.png)
+
+![cyprium dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/cyprium/img/cyprium_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
